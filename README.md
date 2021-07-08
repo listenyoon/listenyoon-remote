@@ -1,2 +1,1 @@
-# listenyoon-remote
-gitpractice
+# from 7 node
